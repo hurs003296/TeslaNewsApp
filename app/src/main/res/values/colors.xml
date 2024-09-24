@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default colors -->
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Custom colors -->
+    <color name="backgroundColor">#F0F0F0</color>
+    <color name="textColor">#212121</color>
+    <color name="buttonColor">#1E88E5</color>
+</resources>
